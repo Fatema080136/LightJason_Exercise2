@@ -4,7 +4,6 @@
 !pom.xml
 !*.md
 !*.java
+!*.jar
 !*.asl
 !src/checkstyle/*.xml
-
-target/**
