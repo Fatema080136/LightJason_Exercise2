@@ -1,0 +1,10 @@
+*.*
+!.gitignore
+!circle.yml
+!pom.xml
+!*.md
+!*.java
+!*.asl
+!src/checkstyle/*.xml
+
+target/**
